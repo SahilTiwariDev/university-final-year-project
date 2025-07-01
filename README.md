@@ -131,27 +131,13 @@
 
 ---
 
-## 🌐 Live Demo
-
-* **Client App:** [https://shofy-beauty-cosmetics-ecommerce.vercel.app](https://shofy-beauty-cosmetics-ecommerce.vercel.app)
-* **Server API:** [https://shofy-backend.vercel.app](https://shofy-backend.vercel.app)
-
----
-
-## 📁 Repositories
-
-* **Frontend Repo:** [https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-client.git](https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-client.git)
-* **Backend Repo:** [https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-backend.git](https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-backend.git)
-
----
 
 ## 📚 Project Overview (For Academic Submission)
 
 * **Project Title:** Shofy – Full Stack eCommerce Web Application
 * **Domain:** Web Development / eCommerce
 * **Technologies Used:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, Stripe, Redux Toolkit, RTK Query
-* **Developed By:** *Your Name (Sahil Tiwari)*
-* **Submitted To:** *Your College Name / Department / Guide Name*
+* **Developed By:** *Sahil Tiwari*
 * **Purpose:** To design, develop, and deploy a modern eCommerce platform tailored for the beauty & cosmetics industry, showcasing full-stack web development proficiency.
 
 ---
