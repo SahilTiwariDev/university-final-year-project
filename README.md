@@ -137,7 +137,7 @@
 * **Project Title:** Shofy – Full Stack eCommerce Web Application
 * **Domain:** Web Development / eCommerce
 * **Technologies Used:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Next.js, Stripe, Redux Toolkit, RTK Query
-* **Developed By:** *Sahil Tiwari*
+* **Developed By:** *Sahil Tiwari*, *Rajarshi Chowdhury*, *Susovan Das*, *Arijit Pal*, *Sneha Pal*, *Subir Mukherjee*
 * **Purpose:** To design, develop, and deploy a modern eCommerce platform tailored for the beauty & cosmetics industry, showcasing full-stack web development proficiency.
 
 ---
